@@ -1,0 +1,11 @@
+for i in range(10):
+    print("*"*(5-abs(i-5)))
+
+
+functions:
+variable scoope:
+      visibility of variable in code block
+
+multicomment short key: shift alt a
+
+spaggetti code
